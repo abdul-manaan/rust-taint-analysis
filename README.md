@@ -22,3 +22,7 @@ To basically get bitcode file of RUST using rustc command and run our LLVM pass 
 We performed different types of test single function call [T1], nested function call [T2], passing tainted values standard data structures [T3] and passing a tainted message to standard socket [T4]. All of the test went fine.
 
 
+![T1](T1.png)
+![T2](T2.png)
+![T3](T3.png)
+![T4](T4.png)
